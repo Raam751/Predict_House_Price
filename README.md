@@ -20,13 +20,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Deploy on Streamlit Cloud
-
-1. Go to [share.streamlit.io](https://share.streamlit.io)
-2. Connect this GitHub repo: `Raam751/Predict_House_Price`
-3. Set **Main file path** to `app.py`
-4. Click **Deploy**
-
 ## Dataset
 
 The [Housing dataset](Housing.csv) contains 545 records with the following columns:
